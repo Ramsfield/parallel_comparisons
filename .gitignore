@@ -1,0 +1,9 @@
+fp_omp
+fp_pthread
+fp_mpi
+fp_mpi_pthread
+fp_mpi_omp
+
+hosts
+
+*.swp
