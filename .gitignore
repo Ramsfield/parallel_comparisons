@@ -7,3 +7,9 @@ fp_mpi_omp
 hosts
 
 *.swp
+
+*.aux
+*.out
+*.gz
+*.log
+
